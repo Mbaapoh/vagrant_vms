@@ -1,0 +1,9 @@
+# Ignore Vagrant directory and files
+.vagrant/
+
+
+# Ignore SSH public key files
+id_rsa.pub
+id_rsa2.pub
+
+
